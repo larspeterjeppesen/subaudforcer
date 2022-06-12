@@ -2,7 +2,9 @@
 Change the forced audio and subtitles of all video files in a folder at once. Supports virtually any file format.
 
 # About
-I wrote this script for video files which have different audio and subtitle tracks encoded within them. Sometimes, a specific track is forced/defaulted, meaning your favorite media player is likely to select that track by default.  
+This script lets you change/choose the default/forced audio and subtitle track for a set of video files. It will change all files in a folder in one go.
+
+The script is intended for video files that have audio and subtitle tracks encoded within them. Sometimes, a specific track is forced/defaulted, meaning your favorite media player is likely to select that track by default. The point of the script is to modify those defaults. 
   
 The script rewrites the entire file in the process, which means it will take a few seconds to a few minutes per file, depending on your PC and the size of the file. A program which makes the desired changes faster is possible, but is bound to be either restricted to a single file format, or much more complex.
 
