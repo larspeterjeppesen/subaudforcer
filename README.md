@@ -12,7 +12,7 @@ The script rewrites the entire file in the process, which means it will take a f
 This script is only tested on my own PC. Back up your data and use at your own risk. While the script will not modify any data outside of the folder you place it in, I do not take responsibility for anything that happens inside of it.
 Should work on Windows, macOS & Linux. Only tested on Windows 10.
 
-# Installation instructions (Windows 10)
+# Installation (Windows 10)
 Install python 3: https://www.python.org/downloads/
 
 Install `ffmpeg` and `ffprobe` (Read about here: https://ffmpeg.org/about.html).  
