@@ -6,7 +6,7 @@ This script lets you change/choose the default/forced audio and subtitle track f
 
 The script is intended for video files that have audio and subtitle tracks encoded within them. Sometimes, a specific track is forced/defaulted, meaning your favorite media player is likely to select that track by default. The point of the script is to modify those defaults. 
   
-The script rewrites the entire file in the process, which means it will take a few seconds to a few minutes per file, depending on your PC and the size of the file. A program which makes the desired changes faster is possible, but is bound to be either restricted to a single file format, or much more complex.
+The script rewrites the entire file in the process, which means it will take a few seconds to a few minutes per file, depending on your PC and the size of the file. A program which makes the desired changes faster is possible, but is bound to be either restricted to a single file format, or much more complex. This script, while slow, is much more inclusive and simple.
 
 # Disclaimer
 This script is only tested on my own PC. Back up your data and use at your own risk. While the script will not modify any data outside of the folder you place it in, I do not take responsibility for anything that happens inside of it.
