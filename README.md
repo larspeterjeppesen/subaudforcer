@@ -1,5 +1,5 @@
 # SubAudForcer
-Change the forced audio and subtitles of all video files in a folder at once (supports virtually any file format)
+Change the forced audio and subtitles of all video files in a folder at once. Supports virtually any file format.
 
 # About
 I wrote this script for video files which have different audio and subtitle tracks encoded within them. Sometimes, a specific track is forced/defaulted, meaning your favorite media player is likely to select that track by default.  
@@ -11,10 +11,10 @@ This script is only tested on my own PC. Back up your data and use at your own r
 Should work on Windows, macOS & Linux. Only tested on Windows 10.
 
 # Installation instructions (Windows 10)
-Install python: https://www.python.org/downloads/
+Install python 3: https://www.python.org/downloads/
 
-Install `ffmpeg` and `ffprobe`. (Read about here: https://ffmpeg.org/about.html)  
-To do so:  
+Install `ffmpeg` and `ffprobe` (Read about here: https://ffmpeg.org/about.html).  
+To install:  
 1. Go to https://ffmpeg.org/download.html
 2. Select one of the executable files for windows
 3. Save anywhere on your pc. Within the download, you should be able to find the .exe files `ffmpeg.exe` and `ffprobe.exe` (used in the next step)
